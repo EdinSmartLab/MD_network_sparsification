@@ -1,7 +1,6 @@
 # MD_network_sparsification
 
-This is a repository containing MATLAB codes, figures for the paper entitled, "Sparsification of long range force networks for molecular
-dynamics simulations". Please cite this work when using the codes. 
+This is a repository containing MATLAB codes and figures for the paper entitled, "Sparsification of long range force networks for molecular dynamics simulations", submitted to PLOS ONE. Please cite this work when using the codes. 
 
 Codes: Contains all the codes for generating figures in the paper. Codes/PLOS_Fig1_plot.m : Generates full, thresholded and sparsified graphs for all the analysis in the paper (figure 1 of paper).
 
