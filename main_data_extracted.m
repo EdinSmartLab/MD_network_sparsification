@@ -7,5 +7,3 @@ a = get(gca,'Children');
 xdata = get(a, 'XData');
 ydata = get(a, 'YData');
 zdata = get(a, 'ZData');
-
-%% figure 2
