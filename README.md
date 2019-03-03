@@ -4,4 +4,4 @@ This is a repository containing MATLAB codes, figures for the paper entitled, "S
 dynamics simulations". Please cite this work when using the codes. 
 
 Codes/PLOS_Fig1_plot.m : Generates full, thresholded and sparsified graphs for all the analysis in the paper.
-MATLAB_Fogs/
+MATLAB_Fig_Files/fig2newa.eps
